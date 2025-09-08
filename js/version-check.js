@@ -1,3 +1,6 @@
+// 暂时禁用版本检查功能
+if (true) return;
+
 // 添加动画样式
 (function() {
     const style = document.createElement('style');
